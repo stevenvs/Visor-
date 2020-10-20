@@ -4,3 +4,5 @@ Este video es de nivel avanzado, es algo pesado de entender, pero se aconseja vi
 
 Pantallazo de tu visor de eventos
 ¿Cuando deberíamos ver el visor de eventos?
+Podemos revisar el visor de eventos cuando queremos ver los registros detallados de los errores en el equipo  o cuando se presentan fallos en los roles y determinar su problema y poder resolverlo.
+
